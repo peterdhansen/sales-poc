@@ -1,0 +1,8 @@
+pandas
+jupyter
+xgboost
+pandas-profiling
+shap
+seaborn
+numpy<1.21
+category_encoders
